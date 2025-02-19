@@ -1,0 +1,16 @@
+ 
+.text{
+    background-color: rgb(54, 137, 210);
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+
+}
+.img1,.img2{
+    background-color: white;
+    align-items: center;
+    padding: 20px;
+    text-align: center;  
+}
+
+
